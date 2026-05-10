@@ -211,5 +211,3 @@ assignment4-graphs/
 cd src
 python main.py
 ```
-
-Python 3.10 or higher is required.
