@@ -124,6 +124,14 @@ Graphs of three sizes were created with random directed edges and traversed from
 ---
 
 ## E. Screenshots
+<img width="1919" height="780" alt="Screenshot 2026-05-10 174510" src="https://github.com/user-attachments/assets/9c517796-2dc3-408e-9ed4-be26fcca5c5c" />
+<img width="1919" height="778" alt="Screenshot 2026-05-10 174518" src="https://github.com/user-attachments/assets/bd896245-f73c-402e-b1b8-98ea74e41599" />
+<img width="1919" height="787" alt="Screenshot 2026-05-10 174530" src="https://github.com/user-attachments/assets/a525897b-6e37-4bc2-bd15-3e979b466a92" />
+<img width="1919" height="787" alt="Screenshot 2026-05-10 174543" src="https://github.com/user-attachments/assets/06c370d0-afe9-48c1-b963-57a3edcd0f30" />
+<img width="1919" height="793" alt="Screenshot 2026-05-10 174557" src="https://github.com/user-attachments/assets/a50abe68-9e3c-4419-ae04-69db97f46c78" />
+
+
+
 
 ### Graph Structure Output (Small Graph — 10 vertices)
 
